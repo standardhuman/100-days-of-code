@@ -14,7 +14,7 @@ It's really hard to figure out what to do. Spent a lot of time just figuring out
 
 **Link(s) to work**
 1. [A simple bart chart in CSS](https://github.com/standardhuman/bar-chart)
-2. [My github pages](https://standardhuman.github.io)
+2. [github pages](https://standardhuman.github.io)
 
 ### Day 2: February 2, 2017
 
@@ -26,4 +26,3 @@ Algos are always good to get the gears grinding. Surprisingly difficult given th
 **Link(s) to work**
 1. [Palindrome](https://goo.gl/zrwlMo)
 2. [Factorial](https://goo.gl/lmN60A)
-3. [My github pages](https://standardhuman.github.io)
