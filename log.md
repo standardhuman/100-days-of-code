@@ -26,3 +26,13 @@ Algos are always good to get the gears grinding. Surprisingly difficult given th
 **Link(s) to work**
 1. [Palindrome](https://goo.gl/zrwlMo)
 2. [Factorial](https://goo.gl/lmN60A)
+
+### Day 3: February 3, 2017
+
+**Today's Progress**: Worked on refactor of a pet react project
+
+**Thoughts:**
+Feeling increasing comfort with React. Managing state is still a trip but getting clearer. Locking down "this" context is next.
+
+**Link(s) to work**
+1. [Postitive Balance](https://github.com/standardhuman/positivebalance/)
