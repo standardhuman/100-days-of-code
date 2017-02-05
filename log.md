@@ -36,3 +36,15 @@ Feeling increasing comfort with React. Managing state is still a trip but gettin
 
 **Link(s) to work**
 1. [Postitive Balance](https://github.com/standardhuman/positivebalance/)
+
+tweet Day 3: Small progress on 2nd React refactor of Positive Balance http://tinyurl.com/h56quzh #100daysofcode
+
+### Day 4: February 4, 2017
+
+**Today's Progress**: Continued on FCC algos, specifically palindrome. Next step, overcome underscores and other non-alphanumeric characters.
+
+**Thoughts:**
+It's a rush to find a far more elegant way to a solution, even if not a complete solution.
+
+**Link(s) to work**
+1. [FCC Palindrome](http://tinyurl.com/jdxg362)
