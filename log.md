@@ -48,3 +48,15 @@ It's a rush to find a far more elegant way to a solution, even if not a complete
 
 **Link(s) to work**
 1. [FCC Palindrome](http://tinyurl.com/jdxg362)
+
+### Day 5: February 5, 2017
+
+**Today's Progress**: Completed my most robust palindrome checker yet, then quickly crushed a longest-element-in-array problem.
+
+**Thoughts:**
+Worth every second of effort. Of course, it only feels that way when it's over.
+
+**Link(s) to work**
+1. [FCC Palindrome](http://tinyurl.com/jdxg362)
+
+tweet Most robust palindrome algo yet. Worth every second, tho only ever feels that way when it's done. http://tinyurl.com/jdxg362 #100daysofcode
