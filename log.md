@@ -69,6 +69,6 @@ tweet Most robust palindrome algo yet. Worth every second, tho only ever feels t
 **Thoughts:** That was super fun.
 
 **Link(s) to work**
-1. [Positive Balance helper.js](http://tinyurl.com/jdxg362)
+1. [Positive Balance helper.js](http://tinyurl.com/jx599a3)
 
-tweet Day 6: Built a func that pluralizes a string based on 2nd argument qty. Fun and useful! #100DaysofCode http://tinyurl.com/jypxyx9
+tweet Day 6: Built a func that pluralizes a string based on 2nd argument qty. Fun and useful! http://tinyurl.com/jx599a3 #100DaysOfCode
