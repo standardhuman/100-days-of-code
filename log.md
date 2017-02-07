@@ -60,3 +60,15 @@ Worth every second of effort. Of course, it only feels that way when it's over.
 1. [FCC Palindrome](http://tinyurl.com/jdxg362)
 
 tweet Most robust palindrome algo yet. Worth every second, tho only ever feels that way when it's done. http://tinyurl.com/jdxg362 #100daysofcode
+
+
+### Day 5: February 5, 2017
+
+**Today's Progress**: Wrote a pluralizing function (from scratch) for our application Positive Balance
+
+**Thoughts:** That was super fun.
+
+**Link(s) to work**
+1. [Positive Balance helper.js](http://tinyurl.com/jdxg362)
+
+tweet Day 6: Built a func that pluralizes a string based on 2nd argument qty. Fun and useful! #100DaysofCode http://tinyurl.com/jypxyx9
