@@ -5,6 +5,7 @@ Projects:
   Portfolio site:
   Journal app: Build using React methods
 
+
 ### Day 1: February 1, 2017
 
 **Today's Progress**: Setup repo for #100days, updated standardhuman.github.io, started looking into D3, rendered a bar graph using CSS.
@@ -16,6 +17,7 @@ It's really hard to figure out what to do. Spent a lot of time just figuring out
 1. [A simple bart chart in CSS](https://github.com/standardhuman/bar-chart)
 2. [github pages](https://standardhuman.github.io)
 
+
 ### Day 2: February 2, 2017
 
 **Today's Progress**: Ground on a factorial and palindrome algorithm.
@@ -26,6 +28,7 @@ Algos are always good to get the gears grinding. Surprisingly difficult given th
 **Link(s) to work**
 1. [Palindrome](https://goo.gl/zrwlMo)
 2. [Factorial](https://goo.gl/lmN60A)
+
 
 ### Day 3: February 3, 2017
 
@@ -39,6 +42,7 @@ Feeling increasing comfort with React. Managing state is still a trip but gettin
 
 tweet Day 3: Small progress on 2nd React refactor of Positive Balance http://tinyurl.com/h56quzh #100daysofcode
 
+
 ### Day 4: February 4, 2017
 
 **Today's Progress**: Continued on FCC algos, specifically palindrome. Next step, overcome underscores and other non-alphanumeric characters.
@@ -48,6 +52,7 @@ It's a rush to find a far more elegant way to a solution, even if not a complete
 
 **Link(s) to work**
 1. [FCC Palindrome](http://tinyurl.com/jdxg362)
+
 
 ### Day 5: February 5, 2017
 
@@ -62,7 +67,7 @@ Worth every second of effort. Of course, it only feels that way when it's over.
 tweet Most robust palindrome algo yet. Worth every second, tho only ever feels that way when it's done. http://tinyurl.com/jdxg362 #100daysofcode
 
 
-### Day 5: February 5, 2017
+### Day 6: February 6, 2017
 
 **Today's Progress**: Wrote a pluralizing function (from scratch) for our application Positive Balance
 
