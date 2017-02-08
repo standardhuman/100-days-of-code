@@ -77,3 +77,14 @@ tweet Most robust palindrome algo yet. Worth every second, tho only ever feels t
 1. [Positive Balance helper.js](http://tinyurl.com/jx599a3)
 
 tweet Day 6: Built a func that pluralizes a string based on 2nd argument qty. Fun and useful! http://tinyurl.com/jx599a3 #100DaysOfCode
+
+### Day 7: February 7, 2017
+
+**Today's Progress**: Spent an easy hour hacking at this algo.
+
+**Thoughts:** Harder than I thought, but pretty sure I'm on the cusp of a very pleasant realization.
+
+**Link(s) to work**
+1. [Title Case a Sentence](http://tinyurl.com/hjjsept)
+
+tweet #100DaysOfCode Day 7: Worked a FCC Title Case a Sentence algo. Unfinished. http://tinyurl.com/hjjsept
