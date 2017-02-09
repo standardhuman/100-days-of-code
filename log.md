@@ -88,3 +88,14 @@ tweet Day 6: Built a func that pluralizes a string based on 2nd argument qty. Fu
 1. [Title Case a Sentence](http://tinyurl.com/hjjsept)
 
 tweet #100DaysOfCode Day 7: Worked a FCC Title Case a Sentence algo. Unfinished. http://tinyurl.com/hjjsept
+
+### Day 8: February 8, 2017
+
+**Today's Progress**: Still working the same algo. FYI, don't drink and code.
+
+**Thoughts:** Remains incomplete. I'm insisting on doing it as elegantly as possible...letting perfect be the enemy of good.
+
+**Link(s) to work**
+1. [Title Case a Sentence](http://tinyurl.com/hjjsept)
+
+tweet #100DaysOfCode Day 8: Still on Title Case a Sentence algo. I'm letting perfect to be the enemey of good. Quit it. http://tinyurl.com/hjjsept
