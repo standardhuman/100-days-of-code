@@ -99,3 +99,14 @@ tweet #100DaysOfCode Day 7: Worked a FCC Title Case a Sentence algo. Unfinished.
 1. [Title Case a Sentence](http://tinyurl.com/hjjsept)
 
 tweet #100DaysOfCode Day 8: Still on Title Case a Sentence algo. I'm letting perfect to be the enemey of good. Quit it. http://tinyurl.com/hjjsept
+
+### Day 9: February 9, 2017
+
+**Today's Progress**: Finished titleCase, started biggest nums from multiple arrays.
+
+**Thoughts:** I'm getting blocked a bunch. I feel like I should be able to churn through the algos, but I will mix up what I work on going forward.
+
+**Link(s) to work**
+1. [Return Largest Numbers in Arrays](http://tinyurl.com/hsb3v9k)
+
+tweet #100DaysOfCode Day 9: Finished Title Case, started Return Largest Numbers in Arrays http://tinyurl.com/hsb3v9k
