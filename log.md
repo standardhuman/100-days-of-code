@@ -110,3 +110,14 @@ tweet #100DaysOfCode Day 8: Still on Title Case a Sentence algo. I'm letting per
 1. [Return Largest Numbers in Arrays](http://tinyurl.com/hsb3v9k)
 
 tweet #100DaysOfCode Day 9: Finished Title Case, started Return Largest Numbers in Arrays http://tinyurl.com/hsb3v9k
+
+### Day 10: February 10, 2017
+
+**Today's Progress**: Practiced passing state from inputs in Positive Balance.
+
+**Thoughts:** Feel fairly behind in grasping the details of React.
+
+**Link(s) to work**
+1. [Positive Balance](http://tinyurl.com/graosug)
+
+tweet #100DaysOfCode Day 10: Worked on passing state from inputs in our app, Positive Balance http://tinyurl.com/graosug
