@@ -121,3 +121,14 @@ tweet #100DaysOfCode Day 9: Finished Title Case, started Return Largest Numbers 
 1. [Positive Balance](http://tinyurl.com/graosug)
 
 tweet #100DaysOfCode Day 10: Worked on passing state from inputs in our app, Positive Balance http://tinyurl.com/graosug
+
+### Day 11: February 11, 2017
+
+**Today's Progress**: Attended first hackathon. Met Dave, Mike, Scott, and Chris. Wonderful guys. Mike walked me through linked lists, I attemtped to walk them through Node.
+
+**Thoughts:** Feel fairly behind in grasping the details of React.
+
+**Link(s) to work**
+1. [Linked Lists](http://tinyurl.com/graosug)
+
+tweet #100DaysOfCode Day 11: Worked on passing state from inputs in our app, Positive Balance http://tinyurl.com/graosug
