@@ -124,11 +124,11 @@ tweet #100DaysOfCode Day 10: Worked on passing state from inputs in our app, Pos
 
 ### Day 11: February 11, 2017
 
-**Today's Progress**: Attended first hackathon. Met Dave, Mike, Scott, and Chris. Wonderful guys. Mike walked me through linked lists, I attemtped to walk them through Node.
+**Today's Progress**: Attended first hackathon. Met Dave, Mike, Scott, and Chris. Wonderful guys. Mike walked me through linked lists, I attemtped to walk them through Node. Learned a lot about how a team approaches building an app and the pitfalls along the way.
 
-**Thoughts:** Feel fairly behind in grasping the details of React.
+**Thoughts:** It was challenging. I'd like to spend time every day working on the basics. HackerRank challenges are probably great.
 
 **Link(s) to work**
-1. [Linked Lists](http://tinyurl.com/graosug)
+1. [Linked Lists](http://tinyurl.com/jpd4q3t)
 
-tweet #100DaysOfCode Day 11: Worked on passing state from inputs in our app, Positive Balance http://tinyurl.com/graosug
+tweet #100DaysOfCode Day 11: Linked lists. http://tinyurl.com/jpd4q3t
