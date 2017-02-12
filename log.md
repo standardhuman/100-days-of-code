@@ -129,6 +129,6 @@ tweet #100DaysOfCode Day 10: Worked on passing state from inputs in our app, Pos
 **Thoughts:** It was challenging. I'd like to spend time every day working on the basics. HackerRank challenges are probably great.
 
 **Link(s) to work**
-1. [Linked Lists](http://tinyurl.com/jpd4q3t)
+1. [Linked Lists](http://tinyurl.com/zbrwbwk)
 
-tweet #100DaysOfCode Day 11: Linked lists. http://tinyurl.com/jpd4q3t
+tweet #100DaysOfCode Day 11: Linked lists. http://tinyurl.com/zbrwbwk
