@@ -5,54 +5,82 @@ Projects:
   Portfolio site:
   Journal app: Build using React methods
 
+  ### Day 12: February 12, 2017
 
-### Day 1: February 1, 2017
+  **Today's Progress**: Starting to explore data structures more in-depth, starting with arrays.
 
-**Today's Progress**: Setup repo for #100days, updated standardhuman.github.io, started looking into D3, rendered a bar graph using CSS.
+  **Thoughts:** Haven't quite figured out HackerRank's test methods.
 
-**Thoughts:**
-It's really hard to figure out what to do. Spent a lot of time just figuring out how to get started. Nothing scarier than a blank page.
+  **Link(s) to work**
+  1. [Linked Lists](http://tinyurl.com/jpd4q3t)
 
-**Link(s) to work**
-1. [A simple bart chart in CSS](https://github.com/standardhuman/bar-chart)
-2. [github pages](https://standardhuman.github.io)
+tweet #100DaysOfCode Day 11: Exploring data structures more in-depth, starting with arrays. http://tinyurl.com/jpd4q3t
 
+### Day 11: February 11, 2017
 
-### Day 2: February 2, 2017
+**Today's Progress**: Attended first hackathon. Met Dave, Mike, Scott, and Chris. Wonderful guys. Mike walked me through linked lists, I attemtped to walk them through Node. Learned a lot about how a team approaches building an app and the pitfalls along the way.
 
-**Today's Progress**: Ground on a factorial and palindrome algorithm.
-
-**Thoughts:**
-Algos are always good to get the gears grinding. Surprisingly difficult given that I've solved these both many times in the past. Feeling rusty.
+**Thoughts:** It was challenging. I'd like to spend time every day working on the basics. HackerRank challenges are probably great.
 
 **Link(s) to work**
-1. [Palindrome](https://goo.gl/zrwlMo)
-2. [Factorial](https://goo.gl/lmN60A)
+1. [Linked Lists](http://tinyurl.com/zbrwbwk)
 
+tweet #100DaysOfCode Day 11: Linked lists. http://tinyurl.com/zbrwbwk
 
-### Day 3: February 3, 2017
+### Day 10: February 10, 2017
 
-**Today's Progress**: Worked on refactor of a pet react project
+**Today's Progress**: Practiced passing state from inputs in Positive Balance.
 
-**Thoughts:**
-Feeling increasing comfort with React. Managing state is still a trip but getting clearer. Locking down "this" context is next.
-
-**Link(s) to work**
-1. [Postitive Balance](https://github.com/standardhuman/positivebalance/)
-
-tweet Day 3: Small progress on 2nd React refactor of Positive Balance http://tinyurl.com/h56quzh #100daysofcode
-
-
-### Day 4: February 4, 2017
-
-**Today's Progress**: Continued on FCC algos, specifically palindrome. Next step, overcome underscores and other non-alphanumeric characters.
-
-**Thoughts:**
-It's a rush to find a far more elegant way to a solution, even if not a complete solution.
+**Thoughts:** Feel fairly behind in grasping the details of React.
 
 **Link(s) to work**
-1. [FCC Palindrome](http://tinyurl.com/jdxg362)
+1. [Positive Balance](http://tinyurl.com/graosug)
 
+tweet #100DaysOfCode Day 10: Worked on passing state from inputs in our app, Positive Balance http://tinyurl.com/graosug
+
+### Day 9: February 9, 2017
+
+**Today's Progress**: Finished titleCase, started biggest nums from multiple arrays.
+
+**Thoughts:** I'm getting blocked a bunch. I feel like I should be able to churn through the algos, but I will mix up what I work on going forward.
+
+### Day 8: February 8, 2017
+
+**Today's Progress**: Still working the same algo. FYI, don't drink and code.
+
+**Thoughts:** Remains incomplete. I'm insisting on doing it as elegantly as possible...letting perfect be the enemy of good.
+
+**Link(s) to work**
+1. [Title Case a Sentence](http://tinyurl.com/hjjsept)
+
+**Link(s) to work**
+1. [Return Largest Numbers in Arrays](http://tinyurl.com/hsb3v9k)
+
+tweet #100DaysOfCode Day 9: Finished Title Case, started Return Largest Numbers in Arrays http://tinyurl.com/hsb3v9k
+
+### Day 7: February 7, 2017
+
+**Today's Progress**: Spent an easy hour hacking at this algo.
+
+**Thoughts:** Harder than I thought, but pretty sure I'm on the cusp of a very pleasant realization.
+
+**Link(s) to work**
+1. [Title Case a Sentence](http://tinyurl.com/hjjsept)
+
+tweet #100DaysOfCode Day 7: Worked a FCC Title Case a Sentence algo. Unfinished. http://tinyurl.com/hjjsept
+
+tweet #100DaysOfCode Day 8: Still on Title Case a Sentence algo. I'm letting perfect to be the enemey of good. Quit it. http://tinyurl.com/hjjsept
+
+### Day 6: February 6, 2017
+
+**Today's Progress**: Wrote a pluralizing function (from scratch) for our application Positive Balance
+
+**Thoughts:** That was super fun.
+
+**Link(s) to work**
+1. [Positive Balance helper.js](http://tinyurl.com/jx599a3)
+
+tweet Day 6: Built a func that pluralizes a string based on 2nd argument qty. Fun and useful! http://tinyurl.com/jx599a3 #100DaysOfCode
 
 ### Day 5: February 5, 2017
 
@@ -66,69 +94,46 @@ Worth every second of effort. Of course, it only feels that way when it's over.
 
 tweet Most robust palindrome algo yet. Worth every second, tho only ever feels that way when it's done. http://tinyurl.com/jdxg362 #100daysofcode
 
+### Day 4: February 4, 2017
 
-### Day 6: February 6, 2017
+**Today's Progress**: Continued on FCC algos, specifically palindrome. Next step, overcome underscores and other non-alphanumeric characters.
 
-**Today's Progress**: Wrote a pluralizing function (from scratch) for our application Positive Balance
-
-**Thoughts:** That was super fun.
-
-**Link(s) to work**
-1. [Positive Balance helper.js](http://tinyurl.com/jx599a3)
-
-tweet Day 6: Built a func that pluralizes a string based on 2nd argument qty. Fun and useful! http://tinyurl.com/jx599a3 #100DaysOfCode
-
-### Day 7: February 7, 2017
-
-**Today's Progress**: Spent an easy hour hacking at this algo.
-
-**Thoughts:** Harder than I thought, but pretty sure I'm on the cusp of a very pleasant realization.
+**Thoughts:**
+It's a rush to find a far more elegant way to a solution, even if not a complete solution.
 
 **Link(s) to work**
-1. [Title Case a Sentence](http://tinyurl.com/hjjsept)
+1. [FCC Palindrome](http://tinyurl.com/jdxg362)
 
-tweet #100DaysOfCode Day 7: Worked a FCC Title Case a Sentence algo. Unfinished. http://tinyurl.com/hjjsept
+### Day 3: February 3, 2017
 
-### Day 8: February 8, 2017
+**Today's Progress**: Worked on refactor of a pet react project
 
-**Today's Progress**: Still working the same algo. FYI, don't drink and code.
-
-**Thoughts:** Remains incomplete. I'm insisting on doing it as elegantly as possible...letting perfect be the enemy of good.
-
-**Link(s) to work**
-1. [Title Case a Sentence](http://tinyurl.com/hjjsept)
-
-tweet #100DaysOfCode Day 8: Still on Title Case a Sentence algo. I'm letting perfect to be the enemey of good. Quit it. http://tinyurl.com/hjjsept
-
-### Day 9: February 9, 2017
-
-**Today's Progress**: Finished titleCase, started biggest nums from multiple arrays.
-
-**Thoughts:** I'm getting blocked a bunch. I feel like I should be able to churn through the algos, but I will mix up what I work on going forward.
+**Thoughts:**
+Feeling increasing comfort with React. Managing state is still a trip but getting clearer. Locking down "this" context is next.
 
 **Link(s) to work**
-1. [Return Largest Numbers in Arrays](http://tinyurl.com/hsb3v9k)
+1. [Postitive Balance](https://github.com/standardhuman/positivebalance/)
 
-tweet #100DaysOfCode Day 9: Finished Title Case, started Return Largest Numbers in Arrays http://tinyurl.com/hsb3v9k
+tweet Day 3: Small progress on 2nd React refactor of Positive Balance http://tinyurl.com/h56quzh #100daysofcode
 
-### Day 10: February 10, 2017
+### Day 2: February 2, 2017
 
-**Today's Progress**: Practiced passing state from inputs in Positive Balance.
+**Today's Progress**: Ground on a factorial and palindrome algorithm.
 
-**Thoughts:** Feel fairly behind in grasping the details of React.
-
-**Link(s) to work**
-1. [Positive Balance](http://tinyurl.com/graosug)
-
-tweet #100DaysOfCode Day 10: Worked on passing state from inputs in our app, Positive Balance http://tinyurl.com/graosug
-
-### Day 11: February 11, 2017
-
-**Today's Progress**: Attended first hackathon. Met Dave, Mike, Scott, and Chris. Wonderful guys. Mike walked me through linked lists, I attemtped to walk them through Node. Learned a lot about how a team approaches building an app and the pitfalls along the way.
-
-**Thoughts:** It was challenging. I'd like to spend time every day working on the basics. HackerRank challenges are probably great.
+**Thoughts:**
+Algos are always good to get the gears grinding. Surprisingly difficult given that I've solved these both many times in the past. Feeling rusty.
 
 **Link(s) to work**
-1. [Linked Lists](http://tinyurl.com/zbrwbwk)
+1. [Palindrome](https://goo.gl/zrwlMo)
+2. [Factorial](https://goo.gl/lmN60A)
 
-tweet #100DaysOfCode Day 11: Linked lists. http://tinyurl.com/zbrwbwk
+### Day 1: February 1, 2017
+
+**Today's Progress**: Setup repo for #100days, updated standardhuman.github.io, started looking into D3, rendered a bar graph using CSS.
+
+**Thoughts:**
+It's really hard to figure out what to do. Spent a lot of time just figuring out how to get started. Nothing scarier than a blank page.
+
+**Link(s) to work**
+1. [A simple bart chart in CSS](https://github.com/standardhuman/bar-chart)
+2. [github pages](https://standardhuman.github.io)
