@@ -5,14 +5,32 @@ Projects:
   Portfolio site:
   Journal app: Build using React methods
 
-  ### Day 12: February 12, 2017
+  # 100 Days Of Code - Log
 
-  **Today's Progress**: Starting to explore data structures more in-depth, starting with arrays.
+  Projects:
+    Positive Balance: react refactor, data viz, user authen
+    Portfolio site:
+    Journal app: Build using React methods
 
-  **Thoughts:** Haven't quite figured out HackerRank's test methods.
+### Day 13: February 13, 2017
 
-  **Link(s) to work**
-  1. [Linked Lists](http://tinyurl.com/jpd4q3t)
+**Today's Progress**: Reduced a node list of timestamps to single value in hrs:mins format. Started journal app build.
+
+**Thoughts:** Feels great to quickly bootstrap a React project.
+
+**Link(s) to work**
+1. [Journal App](http://tinyurl.com/zjqsro9)
+
+tweet #100DaysOfCode Day 13: Reduced timestamp node list to single value in hr:min format. Started journal app build. http://tinyurl.com/zjqsro9
+
+### Day 12: February 12, 2017
+
+**Today's Progress**: Starting to explore data structures more in-depth, starting with arrays.
+
+**Thoughts:** Haven't quite figured out HackerRank's test methods.
+
+**Link(s) to work**
+1. [Linked Lists](http://tinyurl.com/jpd4q3t)
 
 tweet #100DaysOfCode Day 11: Exploring data structures more in-depth, starting with arrays. http://tinyurl.com/jpd4q3t
 
