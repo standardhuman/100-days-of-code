@@ -7,10 +7,21 @@ Projects:
 
   # 100 Days Of Code - Log
 
-  Projects:
-    Positive Balance: react refactor, data viz, user authen
-    Portfolio site:
-    Journal app: Build using React methods
+Projects:
+  Positive Balance: react refactor, data viz, user authen
+  Portfolio site:
+  Journal app: Build using React methods
+
+### Day 14: February 14, 2017
+
+**Today's Progress**: Continued journal app build.
+
+**Thoughts:** CHug, chug, chugging along.
+
+**Link(s) to work**
+1. [Journal App](http://tinyurl.com/zjqsro9)
+
+tweet #100DaysOfCode Day 14: Continued journal app build. http://tinyurl.com/zjqsro9
 
 ### Day 13: February 13, 2017
 
