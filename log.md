@@ -12,6 +12,17 @@ Projects:
   Portfolio site:
   Journal app: Build using React methods
 
+### Day 15: February 15, 2017
+
+**Today's Progress**: Connecting multiple inputs to state on journal app
+
+**Thoughts:** It's about to get crunchy.
+
+**Link(s) to work**
+1. [Journal App](http://tinyurl.com/zjqsro9)
+
+tweet #100DaysOfCode Day 15: Connecting multiple inputs to state on journal app http://tinyurl.com/zjqsro9
+
 ### Day 14: February 14, 2017
 
 **Today's Progress**: Continued journal app build.
