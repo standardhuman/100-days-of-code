@@ -12,6 +12,17 @@ Projects:
   Portfolio site:
   Journal app: Build using React methods
 
+### Day 16: February 16, 2017
+
+**Today's Progress**: Made some functions, passed some props on journal app.
+
+**Thoughts:** It's going awesome!
+
+**Link(s) to work**
+1. [Journal App](http://tinyurl.com/zjqsro9)
+
+tweet #100DaysOfCode Day 16: Made some functions, passed some props on journal app http://tinyurl.com/zjqsro9
+
 ### Day 15: February 15, 2017
 
 **Today's Progress**: Connecting multiple inputs to state on journal app
