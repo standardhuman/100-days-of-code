@@ -12,6 +12,17 @@ Projects:
   Portfolio site:
   Journal app: Build using React methods
 
+### Day 17: February 17, 2017
+
+**Today's Progress**: Figuring out how to update state via inputs in React on the journal app.
+
+**Thoughts:** Hitting a bit of a wall. Got in some great time today, though.
+
+**Link(s) to work**
+1. [Journal App](http://tinyurl.com/zjqsro9)
+
+tweet #100DaysOfCode Day 17: Figuring out how to update state via inputs in React on the journal app. http://tinyurl.com/zjqsro9
+
 ### Day 16: February 16, 2017
 
 **Today's Progress**: Made some functions, passed some props on journal app.
