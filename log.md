@@ -1,16 +1,13 @@
-# 100 Days Of Code - Log
+### Day 18: February 18, 2018
 
-Projects:
-  Positive Balance: react refactor, data viz, user authen
-  Portfolio site:
-  Journal app: Build using React methods
+**Today's Progress**:Re-wrote tech spec for journal app
 
-  # 100 Days Of Code - Log
+**Thoughts:** Writing a spec is totally worth it. So clarifying
 
-Projects:
-  Positive Balance: react refactor, data viz, user authen
-  Portfolio site:
-  Journal app: Build using React methods
+**Link(s) to work**
+1. [Journal App](http://tinyurl.com/zjqsro9)
+
+tweet #100DaysOfCode Day 18: Re-wrote tech spec for journal app. So very clarifying. http://tinyurl.com/zjqsro9
 
 ### Day 17: February 17, 2017
 
