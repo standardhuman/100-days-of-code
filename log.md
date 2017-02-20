@@ -1,4 +1,15 @@
-### Day 18: February 18, 2018
+### Day 19: February 19, 2017
+
+**Today's Progress**: Refactored app to comply with spec
+
+**Thoughts:** I can scaffold out an app really quickly once I've spec'd it out first.
+
+**Link(s) to work**
+1. [Journal App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 19: Re-wrote tech spec for journal app. Clarifying. http://tinyurl.com/zjqsro9
+
+### Day 18: February 18, 2017
 
 **Today's Progress**:Re-wrote tech spec for journal app
 
@@ -7,7 +18,7 @@
 **Link(s) to work**
 1. [Journal App](http://tinyurl.com/zjqsro9)
 
-tweet #100DaysOfCode Day 18: Re-wrote tech spec for journal app. So very clarifying. http://tinyurl.com/zjqsro9
+tweet #100DaysOfCode Day 18: Re-wrote tech spec for journal app. Clarifying. http://tinyurl.com/zjqsro9
 
 ### Day 17: February 17, 2017
 
