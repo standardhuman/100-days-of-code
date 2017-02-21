@@ -1,3 +1,15 @@
+
+### Day 20: February 20, 2017
+
+**Today's Progress**: Greatly simplified log app. Date function done.
+
+**Thoughts:** Continuing to follow spec is great.
+
+**Link(s) to work**
+1. [Journal App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 20: Greatly simplified log app. Date function done. http://tinyurl.com/gng5jzm
+
 ### Day 19: February 19, 2017
 
 **Today's Progress**: Refactored app to comply with spec
@@ -7,7 +19,7 @@
 **Link(s) to work**
 1. [Journal App](http://tinyurl.com/gng5jzm)
 
-tweet #100DaysOfCode Day 19: Re-wrote tech spec for journal app. Clarifying. http://tinyurl.com/zjqsro9
+tweet #100DaysOfCode Day 19: Refactored app to comply with the spec. Now log-app. http://tinyurl.com/gng5jzm
 
 ### Day 18: February 18, 2017
 
