@@ -1,4 +1,15 @@
 
+### Day 21: February 21, 2017
+
+**Today's Progress**: Implemented addPost and renderEntries in log app
+
+**Thoughts:** Deep in flow tonight
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 21: Implemented addPost and renderEntries in log app http://tinyurl.com/gng5jzm
+
 ### Day 20: February 20, 2017
 
 **Today's Progress**: Greatly simplified log app. Date function done.
