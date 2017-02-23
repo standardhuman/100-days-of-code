@@ -1,3 +1,13 @@
+### Day 22: February 22, 2017
+
+**Today's Progress**: Fixed loadSampleEntries, created feature priority list
+
+**Thoughts:** Planning is key.
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 22: Fixed loadSampleEntries, created feature priority list http://tinyurl.com/gng5jzm
 
 ### Day 21: February 21, 2017
 
