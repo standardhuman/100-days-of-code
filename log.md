@@ -1,3 +1,14 @@
+### Day 23: February 23, 2017
+
+**Today's Progress**: Got new entries to add in reverse-chrono order and implemented day incrementing function.
+
+**Thoughts:** The priorities list is key (ha)
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 23: Got new entries to add in reverse-chrono order and implemented day incrementing function. http://tinyurl.com/gng5jzm
+
 ### Day 22: February 22, 2017
 
 **Today's Progress**: Fixed loadSampleEntries, created feature priority list
