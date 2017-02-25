@@ -1,3 +1,14 @@
+### Day 24: February 24, 2017
+
+**Today's Progress**: Began implementation of Twitter API
+
+**Thoughts:** Priority list continues to rock. Twitter is providing a nice challenge.
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 24: Began implementation of Twitter API for log app. http://tinyurl.com/gng5jzm
+
 ### Day 23: February 23, 2017
 
 **Today's Progress**: Got new entries to add in reverse-chrono order and implemented day incrementing function.
