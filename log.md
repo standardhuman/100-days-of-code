@@ -1,13 +1,13 @@
-### Day 24: February 24, 2017
+### Day 25: February 25, 2017
 
-**Today's Progress**: Began implementation of Twitter API
+**Today's Progress**: Continuing to hammer on this tweetbox.
 
-**Thoughts:** Priority list continues to rock. Twitter is providing a nice challenge.
+**Thoughts:** First API integration. Not getting discouraged.
 
 **Link(s) to work**
 1. [Log App](http://tinyurl.com/gng5jzm)
 
-tweet #100DaysOfCode Day 24: Began implementation of Twitter API for log app. http://tinyurl.com/gng5jzm
+tweet #100DaysOfCode Day 25: Continuing to hammer on this tweetbox. http://tinyurl.com/gng5jzm
 
 ### Day 23: February 23, 2017
 
