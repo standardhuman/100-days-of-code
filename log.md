@@ -1,3 +1,13 @@
+### Day 26: February 26, 2017
+
+**Today's Progress**: Continuing to flail on this twitter API.
+
+**Thoughts:** Breakthrough tomorrow.
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 26: Continuing to flail on this twitter API. http://tinyurl.com/gng5jzm
+
 ### Day 25: February 25, 2017
 
 **Today's Progress**: Continuing to hammer on this tweetbox.
