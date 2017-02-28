@@ -1,3 +1,14 @@
+### Day 27: February 27, 2017
+
+**Today's Progress**: Shelved Twitter API, improved UI, started firebase.
+
+**Thoughts:** Sometimes better to move on when stuck.
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 27: Shelved Twitter API, improved UI, started firebase. http://tinyurl.com/gng5jzm
+
 ### Day 26: February 26, 2017
 
 **Today's Progress**: Continuing to flail on this twitter API.
