@@ -1,3 +1,15 @@
+### Day 28: February 28, 2017
+
+**Today's Progress**: Firebase pretty much done, started authentication.
+
+**Thoughts:** Will do more notetaking/commenting.
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 28: Firebase pretty much done, started authentication. http://tinyurl.com/gng5jzm
+
+
 ### Day 27: February 27, 2017
 
 **Today's Progress**: Shelved Twitter API, improved UI, started firebase.
