@@ -1,3 +1,13 @@
+### Day 29: March 1, 2017
+**Today's Progress**: Binding and authentication.
+
+**Thoughts:** Will do more notetaking/commenting.
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 29: Binding and authentication. http://tinyurl.com/gng5jzm
+
 ### Day 28: February 28, 2017
 
 **Today's Progress**: Firebase pretty much done, started authentication.
