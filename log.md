@@ -1,12 +1,12 @@
-### Day 29: March 1, 2017
-**Today's Progress**: Binding and authentication.
+### Day 30: March 2, 2017
+**Today's Progress**: Chasing database connection bugs.
 
-**Thoughts:** Will do more notetaking/commenting.
+**Thoughts:** Next up: clean out spec.md
 
 **Link(s) to work**
 1. [Log App](http://tinyurl.com/gng5jzm)
 
-tweet #100DaysOfCode Day 29: Binding and authentication. http://tinyurl.com/gng5jzm
+tweet #100DaysOfCode Day 30: Chasing database connection bugs. http://tinyurl.com/gng5jzm
 
 ### Day 28: February 28, 2017
 
@@ -18,7 +18,6 @@ tweet #100DaysOfCode Day 29: Binding and authentication. http://tinyurl.com/gng5
 1. [Log App](http://tinyurl.com/gng5jzm)
 
 tweet #100DaysOfCode Day 28: Firebase pretty much done, started authentication. http://tinyurl.com/gng5jzm
-
 
 ### Day 27: February 27, 2017
 
