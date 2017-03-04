@@ -1,3 +1,13 @@
+### Day 31: March 2, 2017
+**Today's Progress**: Did some hella stylin on log-app
+
+**Thoughts:** Still need to  clean out spec.md, but stylin is fun.
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 31: Did some hella stylin on log-app http://tinyurl.com/gng5jzm
+
 ### Day 30: March 2, 2017
 **Today's Progress**: Chasing database connection bugs.
 
