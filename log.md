@@ -1,4 +1,14 @@
-### Day 31: March 2, 2017
+### Day 32: March 4, 2017
+**Today's Progress**: Flexed the flexbox on the log app.
+
+**Thoughts:** Flexbox is king
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 32: Flexed the flexbox on the log app. http://tinyurl.com/gng5jzm
+
+### Day 31: March 3, 2017
 **Today's Progress**: Did some hella stylin on log-app
 
 **Thoughts:** Still need to  clean out spec.md, but stylin is fun.
