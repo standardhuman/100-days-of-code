@@ -1,3 +1,13 @@
+### Day 33: March 4, 2017
+**Today's Progress**: Further flexbox experimentation on log app
+
+**Thoughts:** Mini breakthroughs.
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 33: Further flexbox experimentation on log app http://tinyurl.com/gng5jzm
+
 ### Day 32: March 4, 2017
 **Today's Progress**: Flexed the flexbox on the log app.
 
