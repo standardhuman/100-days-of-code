@@ -1,4 +1,13 @@
-### Day 33: March 4, 2017
+### Day 34: March 5, 2017
+**Today's Progress**: Several styling tweaks to Positive Balance.
+**Thoughts:** posBal is soo close to being ready for public interaction
+
+**Link(s) to work**
+1. [Log App](https://github.com/standardhuman/positivebalance/tree/master/react2/Positive)
+
+tweet #100DaysOfCode Day 34: Several styling tweaks to Positive Balance. https://github.com/standardhuman/positivebalance/tree/master/react2/Positive
+
+### Day 33: March 5, 2017
 **Today's Progress**: Further flexbox experimentation on log app
 
 **Thoughts:** Mini breakthroughs.
