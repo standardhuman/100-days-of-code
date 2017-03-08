@@ -1,11 +1,20 @@
-### Day 34: March 5, 2017
+### Day 35: March 7, 2017
+**Today's Progress**: More centering, padding, etc on log app
+**Thoughts:** Almost done styling
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 35: More centering, padding, etc on log app http://tinyurl.com/jypxyx9
+
+### Day 34: March 6, 2017
 **Today's Progress**: Several styling tweaks to Positive Balance.
 **Thoughts:** posBal is soo close to being ready for public interaction
 
 **Link(s) to work**
-1. [Log App](https://github.com/standardhuman/positivebalance/tree/master/react2/Positive)
+1. [Log App](http://tinyurl.com/jypxyx9)
 
-tweet #100DaysOfCode Day 34: Several styling tweaks to Positive Balance. https://github.com/standardhuman/positivebalance/tree/master/react2/Positive
+tweet #100DaysOfCode Day 34: Several styling tweaks to Positive Balance. http://tinyurl.com/jypxyx9
 
 ### Day 33: March 5, 2017
 **Today's Progress**: Further flexbox experimentation on log app
