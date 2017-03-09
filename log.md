@@ -1,3 +1,12 @@
+### Day 36: March 8, 2017
+**Today's Progress**: Adjust layout and styling on log app
+**Thoughts:** This is getting ridiculous
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 36: Adjust layout and styling on log app http://tinyurl.com/jypxyx9
+
 ### Day 35: March 7, 2017
 **Today's Progress**: More centering, padding, etc on log app
 **Thoughts:** Almost done styling
