@@ -1,3 +1,13 @@
+### Day 37: March 9, 2017
+**Today's Progress**: Learning the power of flexbox! What a relief it is!
+**Thoughts:** Now it is ridiculous.
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 37: Learning the power of flexbox! What a relief it is! http://tinyurl.com/jypxyx9
+
+
 ### Day 36: March 8, 2017
 **Today's Progress**: Adjust layout and styling on log app
 **Thoughts:** This is getting ridiculous
