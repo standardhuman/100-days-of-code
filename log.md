@@ -1,3 +1,12 @@
+### Day 38: March 10, 2017
+**Today's Progress**: Clearly did not understand flexbox the first time around. Re-implementing on log-app.
+**Thoughts:** Now it is ridiculous.
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 38: Clearly did not understand flexbox the first time around. Re-implementing on log-app. http://tinyurl.com/jypxyx9
+
 ### Day 37: March 9, 2017
 **Today's Progress**: Learning the power of flexbox! What a relief it is!
 **Thoughts:** Now it is ridiculous.
