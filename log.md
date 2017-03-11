@@ -1,3 +1,12 @@
+### Day 39: March 11, 2017
+**Today's Progress**: Refactor container-item css structure in log-app
+**Thoughts:** Now it is ridiculous.
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 39: Refactor container-item css structure in log-app. http://tinyurl.com/jypxyx9
+
 ### Day 38: March 10, 2017
 **Today's Progress**: Clearly did not understand flexbox the first time around. Re-implementing on log-app.
 **Thoughts:** Now it is ridiculous.
