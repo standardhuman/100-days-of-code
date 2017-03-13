@@ -1,3 +1,12 @@
+### Day 40: March 12, 2017
+**Today's Progress**: Continue refactor container-item css structure in log-app
+**Thoughts:** Now it is ridiculous.
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 40: Continue refactor container-item css structure in log-app. http://tinyurl.com/jypxyx9
+
 ### Day 39: March 11, 2017
 **Today's Progress**: Refactor container-item css structure in log-app
 **Thoughts:** Now it is ridiculous.
