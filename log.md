@@ -1,3 +1,13 @@
+### Day 41: March 13, 2017
+**Today's Progress**: Started layout of new portfolio page in flexbox
+
+**Thoughts:** Still not comfy with flexbox
+
+**Link(s) to work**
+1. [Portfolio](http://tinyurl.com/hkzjsds)
+
+tweet #100DaysOfCode Day 41: Started layout of new portfolio page in flexbox http://tinyurl.com/hkzjsds
+
 ### Day 40: March 12, 2017
 **Today's Progress**: Continue refactor container-item css structure in log-app
 **Thoughts:** Now it is ridiculous.
