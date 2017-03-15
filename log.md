@@ -1,3 +1,13 @@
+### Day 43: March 15, 2017
+**Today's Progress**: Continued with styling and did some re-modeling of the components in log-app.
+
+**Thoughts:** It's looking a lot better!
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 43: Continued with styling and did some re-modeling of the components in log-app. http://tinyurl.com/gng5jzm
+
 ### Day 42: March 14, 2017
 **Today's Progress**: Finally figured out Flexbox!
 
