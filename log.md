@@ -1,3 +1,13 @@
+### Day 42: March 14, 2017
+**Today's Progress**: Finally figured out Flexbox!
+
+**Thoughts:** Finally figured out Flexbox!
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 42: Finally figured out Flexbox!  http://tinyurl.com/gng5jzm
+
 ### Day 41: March 13, 2017
 **Today's Progress**: Started layout of new portfolio page in flexbox
 
