@@ -1,3 +1,13 @@
+### Day 45: March 17, 2017
+**Today's Progress**: Fixed up sample data, more css styling
+
+**Thoughts:** Next up needs to be some actual functional programming.
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 45: Fixed up sample data, more css styling http://tinyurl.com/gng5jzm
+
 ### Day 44: March 16, 2017
 **Today's Progress**: Continuing to refine layout, adding features.
 
