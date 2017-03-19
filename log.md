@@ -1,3 +1,13 @@
+### Day 46: March 18, 2017
+**Today's Progress**: Added Github/Twitter login fields (not functional) and clear entry form function.
+
+**Thoughts:** Coding while sailing. It's great!
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 45: Added Github/Twitter login fields (not functional) and clear entry form function. All while ocean sailing. http://tinyurl.com/gng5jzm
+
 ### Day 45: March 17, 2017
 **Today's Progress**: Fixed up sample data, more css styling
 
