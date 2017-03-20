@@ -1,3 +1,13 @@
+### Day 47: March 19, 2017
+**Today's Progress**: Form reset, entry date, link to work and tweet structured.
+
+**Thoughts:** Some good structure and feature work.
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 47: Form reset, entry date, link to work and tweet structured. http://tinyurl.com/gng5jzm
+
 ### Day 46: March 18, 2017
 **Today's Progress**: Added Github/Twitter login fields (not functional) and clear entry form function.
 
