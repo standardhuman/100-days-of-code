@@ -1,3 +1,13 @@
+### Day 48: March 20, 2017
+**Today's Progress**: Strides made on git and twit auth.
+
+**Thoughts:** Authentication: yip!
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 48: Strides made on git and twit auth. http://tinyurl.com/gng5jzm
+
 ### Day 47: March 19, 2017
 **Today's Progress**: Form reset, entry date, link to work and tweet structured.
 
