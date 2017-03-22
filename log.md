@@ -1,3 +1,13 @@
+### Day 49: March 21, 2017
+**Today's Progress**: Twit and git auth works!
+
+**Thoughts:** Authentication: yip!
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 49: Twit and git auth works! auth. http://tinyurl.com/gng5jzm
+
 ### Day 48: March 20, 2017
 **Today's Progress**: Strides made on git and twit auth.
 
