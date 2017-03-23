@@ -1,3 +1,13 @@
+### Day 50: March 22, 2017
+**Today's Progress**: Quick mockup in flexbox. Forgot to push and tweet last night!
+
+**Thoughts:** Mockups: yip!
+
+**Link(s) to work**
+1. [Log App](http://tinyurl.com/gng5jzm)
+
+tweet #100DaysOfCode Day 50: Quick mockup in flexbox. Forgot to push and tweet last night! http://tinyurl.com/gng5jzm
+
 ### Day 49: March 21, 2017
 **Today's Progress**: Twit and git auth works!
 
