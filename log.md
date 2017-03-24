@@ -1,12 +1,12 @@
-### Day 50: March 22, 2017
-**Today's Progress**: Quick mockup in flexbox. Forgot to push and tweet last night!
+### Day 51: March 23, 2017
+**Today's Progress**: Started hotel app layout. Learning how flexbox works with react-native.
 
-**Thoughts:** Mockups: yip!
+**Thoughts:** Flex+React-Native: yip!
 
 **Link(s) to work**
-1. [Log App](http://tinyurl.com/gng5jzm)
+1. [Log App](http://tinyurl.com/kk7gc4x)
 
-tweet #100DaysOfCode Day 50: Quick mockup in flexbox. Forgot to push and tweet last night! http://tinyurl.com/gng5jzm
+tweet #100DaysOfCode Day 51: Started hotel app layout. Learning how flexbox works with react-native. http://tinyurl.com/kk7gc4x
 
 ### Day 49: March 21, 2017
 **Today's Progress**: Twit and git auth works!
