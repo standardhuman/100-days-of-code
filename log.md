@@ -6,7 +6,7 @@
 **Link(s) to work**
 1. [Accum(s)](https://github.com/standardhuman/codewars)
 
-tweet #100DaysOfCode Day 51: Started hotel app layout. Learning how flexbox works with react-native. http://tinyurl.com/kk7gc4x
+tweet #100DaysOfCode Day 52: Back into CodeWars! Accum(s) fn. http://tinyurl.com/k5zf5sk
 
 ### Day 51: March 23, 2017
 **Today's Progress**: Started hotel app layout. Learning how flexbox works with react-native.
