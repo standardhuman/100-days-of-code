@@ -1,3 +1,13 @@
+### Day 52: April 17, 2017
+**Today's Progress**: Back into CodeWars! Accum(s) function.
+
+**Thoughts:** Algorithms!
+
+**Link(s) to work**
+1. [Accum(s)](https://github.com/standardhuman/codewars)
+
+tweet #100DaysOfCode Day 51: Started hotel app layout. Learning how flexbox works with react-native. http://tinyurl.com/kk7gc4x
+
 ### Day 51: March 23, 2017
 **Today's Progress**: Started hotel app layout. Learning how flexbox works with react-native.
 
