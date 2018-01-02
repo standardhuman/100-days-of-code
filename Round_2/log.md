@@ -1,30 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 1, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Re-solved a problem from Pramp interview: findLargestSmallerKey. Object is to find the largest value in a binary tree that is smaller than a given number. I didn't really get it during the interview, was helpful to try to solve it on my own again.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** This has been a useful introduction to Binary Search Trees and their traversal. This problem highlighted my need to brush up on recursion and has excited me to plow ahead into more data structures (breadth-first search?) and cozy up better with BSTs (depth-first?). Also excited to be back in the 100 Days of Code saddle.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work:** [findLargestSmallerKey](http://tinyurl.com/yb7mcpxq)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Tweet:** Starting Round 2 #100daysofcode. Day 1: Solved binary search tree problem from Pramp interview. Didn't get it during the interview, helpful to try again on my own.  http://tinyurl.com/yb7mcpxq  . Stoked to be getting back in the saddle! #dailypractice
