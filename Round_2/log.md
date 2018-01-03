@@ -26,6 +26,6 @@ I think the next step is going to be to read up on the basics of how Redux works
 
 One of the intended functions of this application is to update a file in a user's git repo. Let's see how that works that by attempting to do so on one of my own files.
 
-**Link(s) to work:** []()
+**Link(s) to work:** [Log.md](http://tinyurl.com/ychjul5v)
 
-**Tweet:** #100daysofcode. Day 2: http://tinyurl.com/yb7mcpxq  #100daysofcode
+**Tweet:** #100daysofcode. Day 2 of #100DaysOfCode : Diagramed out the components, data flow, and client-server relationships of a new app. Studied the API documentation of a couple of services that will be required, made sure they can do what will be needed. 
