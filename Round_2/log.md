@@ -29,3 +29,13 @@ One of the intended functions of this application is to update a file in a user'
 **Link(s) to work:** [Log.md](http://tinyurl.com/ychjul5v)
 
 **Tweet:** #100daysofcode. Day 2 of #100DaysOfCode : Diagramed out the components, data flow, and client-server relationships of a new app. Studied the API documentation of a couple of services that will be required, made sure they can do what will be needed. 
+
+### Day 3: January 3, 2017
+
+**Today's Progress**: Solving leetcode problem twoSum using a hash table approach. Did not quite get it working but oh so close. What with their superior O(1) time complexity and all (as compared to an array's or linked list's O(n)), it's nice to make hash table's acquaintance. 
+
+**Thoughts:** Hash tables are new to me and are clearly superior in terms of time complexity O(1) when compared to an unsorted array or linked list O(n). This problem also introduced me to the Map object in JS and its associated prototype methods like .get. I haven't evaluated the space complexity of my solution just yet, that will come tomorrow. Other than submitting the solution to leetcode, I'll have to discover how best to do that.
+
+**Link(s) to work:** [twoSum](https://github.com/standardhuman/Interview-Practice/blob/master/leetcode/01_twosums.js)
+
+**Tweet:** #100DaysOfCode Round 2. Day 3: Solving leetcode problem twoSum using a hash table approach. What with their superior O(1) time complexity and all (as compared to an array or linked list O(n)), it's nice to make hash table's acquaintance. http://tinyurl.com/y7jtcwnd 
