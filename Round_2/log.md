@@ -39,3 +39,23 @@ One of the intended functions of this application is to update a file in a user'
 **Link(s) to work:** [twoSum](https://github.com/standardhuman/Interview-Practice/blob/master/leetcode/01_twosums.js)
 
 **Tweet:** #100DaysOfCode Round 2. Day 3: Solving leetcode problem twoSum using a hash table approach. What with their superior O(1) time complexity and all (as compared to an array or linked list O(n)), it's nice to make hash table's acquaintance. http://tinyurl.com/y7jtcwnd 
+
+### Day 4: January 4, 2017
+
+**Today's Progress**: Got the Basic Regex Parser problem again as a Pramp interview problem, so a good forced revisiting of recursion and that damn '*' behavior. Also setup a repo, installed create-react-app, and started reading up on Redux for log-app-2018.
+
+**Thoughts:** Should probably do a couple of quick recursion problems to knock the rust off. Who am I kidding, I never was comfy with recursion, but also never really spent time with it, so that makes sense. Feeling much more comfortable with the Pramp interview this time around. Funny that I got the same problem to present as last week. On the Log-App front, bootstrapping with create-react-app is so nice as it give that "we're getting started" feeling fast and easy. Excited to really roll Redux into the build from the beginning and wrap my brain around it.
+
+**Link(s) to work:** (Log-App-2018 (nothing to see here))[http://tinyurl.com/ybpaeons],  (Basic Regex Parser)[http://tinyurl.com/y9wykkqr]
+
+**Tweet:** #100DaysofCode Round 2, Day 4: Got the Basic Regex Parser problem again as a Pramp interview problem, so a good forced revisiting of recursion and that damn '*' behavior. Also setup a repo, installed create-react-app, and started reading up on Redux for log-app-2018. tinyurl.com/ybpaeons tinyurl.com/y9wykkqr
+
+### Day 5: January 5, 2017
+
+**Today's Progress**: #100DaysofCode R2,D5: Pramp interview, got equivalent of twoSum. Forgot about recursion, instead used brute force. I gave the Basic Regex Parser, inspired to see my interviewee work through it beautifully. Also did more Redux ed. www.pramp.com, http://tinyurl.com/ychjul5v
+
+**Thoughts:** I need to revisit twoSum, solve it with recursion and revisit that regex parser.
+
+**Link(s) to work:** (Pramp)[www.pramp.com], (Log.md)[http://tinyurl.com/ychjul5v]
+
+**Tweet:** #100DaysofCode R2,D5: Pramp interview, got equivalent of twoSum. Forgot about recursion, instead used brute force. I gave the Basic Regex Parser, inspired to see my interviewee work through it beautifully. Also did more Redux ed. www.pramp.com, http://tinyurl.com/ychjul5v
