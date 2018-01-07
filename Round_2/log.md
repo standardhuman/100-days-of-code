@@ -52,10 +52,20 @@ One of the intended functions of this application is to update a file in a user'
 
 ### Day 5: January 5, 2017
 
-**Today's Progress**: #100DaysofCode R2,D5: Pramp interview, got equivalent of twoSum. Forgot about recursion, instead used brute force. I gave the Basic Regex Parser, inspired to see my interviewee work through it beautifully. Also did more Redux ed. www.pramp.com, http://tinyurl.com/ychjul5v
+**Today's Progress**: R2,D5: Pramp interview, got equivalent of twoSum. Forgot about recursion, instead used brute force. I gave the Basic Regex Parser, inspired to see my interviewee work through it beautifully. Also did more Redux ed. www.pramp.com, http://tinyurl.com/ychjul5v
 
 **Thoughts:** I need to revisit twoSum, solve it with recursion and revisit that regex parser.
 
 **Link(s) to work:** (Pramp)[www.pramp.com], (Log.md)[http://tinyurl.com/ychjul5v]
 
 **Tweet:** #100DaysofCode R2,D5: Pramp interview, got equivalent of twoSum. Forgot about recursion, instead used brute force. I gave the Basic Regex Parser, inspired to see my interviewee work through it beautifully. Also did more Redux ed. www.pramp.com, http://tinyurl.com/ychjul5v
+
+### Day 6: January 6, 2017
+
+**Today's Progress**: R2,D6: Read more Redux and React design considerations then wrote up a pseudocode outline of all the components and helper function data flows for log-app-2018.
+
+**Thoughts:** Doing some calm reading and some thoughtful planning in the form of an outline is incredibly useful for visualizing the scope and flow of the project. I hope that this outline will serve as a useful reference during the build, like a blueprint.
+
+**Link(s) to work:** (Log App Component Structure)[https://github.com/standardhuman/Log-App-2018/blob/master/component%20structure.js]
+
+**Tweet:** #100DaysofCode R2,D6: Read more Redux and React design considerations then wrote up a pseudocode outline of all the components and helper function data flows for log-app-2018. http://tinyurl.com/ybtbcazc
