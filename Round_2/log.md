@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 1, 2017
+### Day 1: January 1, 2018
 
 **Today's Progress**: Re-solved a problem from Pramp interview: findLargestSmallerKey. Object is to find the largest value in a binary tree that is smaller than a given number. I didn't really get it during the interview, was helpful to try to solve it on my own again.
 
@@ -10,7 +10,7 @@
 
 **Tweet:** Starting Round 2 #100daysofcode. Day 1: Solved binary search tree problem from Pramp interview. Didn't get it during the interview, helpful to try again on my own.  http://tinyurl.com/yb7mcpxq  . Stoked to be getting back in the saddle! #dailypractice
 
-### Day 2: January 2, 2017
+### Day 2: January 2, 2018
 
 **Today's Progress**: Diagramed out the components, data flow, and client-server relationships of a new app. Studied the API documentation of a couple of services that will be required, made sure they can do what is required. 
 
@@ -30,7 +30,7 @@ One of the intended functions of this application is to update a file in a user'
 
 **Tweet:** #100daysofcode. Day 2 of #100DaysOfCode : Diagramed out the components, data flow, and client-server relationships of a new app. Studied the API documentation of a couple of services that will be required, made sure they can do what will be needed. 
 
-### Day 3: January 3, 2017
+### Day 3: January 3, 2018
 
 **Today's Progress**: Solving leetcode problem twoSum using a hash table approach. Did not quite get it working but oh so close. What with their superior O(1) time complexity and all (as compared to an array's or linked list's O(n)), it's nice to make hash table's acquaintance. 
 
@@ -40,7 +40,7 @@ One of the intended functions of this application is to update a file in a user'
 
 **Tweet:** #100DaysOfCode Round 2. Day 3: Solving leetcode problem twoSum using a hash table approach. What with their superior O(1) time complexity and all (as compared to an array or linked list O(n)), it's nice to make hash table's acquaintance. http://tinyurl.com/y7jtcwnd 
 
-### Day 4: January 4, 2017
+### Day 4: January 4, 2018
 
 **Today's Progress**: Got the Basic Regex Parser problem again as a Pramp interview problem, so a good forced revisiting of recursion and that damn '*' behavior. Also setup a repo, installed create-react-app, and started reading up on Redux for log-app-2018.
 
@@ -50,7 +50,7 @@ One of the intended functions of this application is to update a file in a user'
 
 **Tweet:** #100DaysofCode Round 2, Day 4: Got the Basic Regex Parser problem again as a Pramp interview problem, so a good forced revisiting of recursion and that damn '*' behavior. Also setup a repo, installed create-react-app, and started reading up on Redux for log-app-2018. tinyurl.com/ybpaeons tinyurl.com/y9wykkqr
 
-### Day 5: January 5, 2017
+### Day 5: January 5, 2018
 
 **Today's Progress**: R2,D5: Pramp interview, got equivalent of twoSum. Forgot about recursion, instead used brute force. I gave the Basic Regex Parser, inspired to see my interviewee work through it beautifully. Also did more Redux ed. www.pramp.com, http://tinyurl.com/ychjul5v
 
@@ -60,7 +60,7 @@ One of the intended functions of this application is to update a file in a user'
 
 **Tweet:** #100DaysofCode R2,D5: Pramp interview, got equivalent of twoSum. Forgot about recursion, instead used brute force. I gave the Basic Regex Parser, inspired to see my interviewee work through it beautifully. Also did more Redux ed. www.pramp.com, http://tinyurl.com/ychjul5v
 
-### Day 6: January 6, 2017
+### Day 6: January 6, 2018
 
 **Today's Progress**: R2,D6: Read more Redux and React design considerations then wrote up a pseudocode outline of all the components and helper function data flows for log-app-2018.
 
@@ -69,3 +69,23 @@ One of the intended functions of this application is to update a file in a user'
 **Link(s) to work:** (Log App Component Structure)[https://github.com/standardhuman/Log-App-2018/blob/master/component%20structure.js]
 
 **Tweet:** #100DaysofCode R2,D6: Read more Redux and React design considerations then wrote up a pseudocode outline of all the components and helper function data flows for log-app-2018. http://tinyurl.com/ybtbcazc
+
+### Day 7: January 7, 2018
+
+**Today's Progress:** R2,D7: Reading through React and Twitter API docs to re-famliarize myself. Updating the app structure outline as I go. Beginnings of Sendtweet component in the works.
+
+**Thoughts:** Left coding to the last minute today and started to get sick a the same time. Good reason to not leave it to the last minute. Prioritizing making sure the app will be able to send a tweet for an authenticated user. Thinking that probably won't be an issue, but bigger uncertainty is committing and pushing to GH. Always need to be ready to axe that feature if it's not supported by the GH API, but I remain hopeful.
+
+**Link(s) to work:** (Log-App-2018)[https://github.com/standardhuman/Log-App-2018]
+
+**Tweet:** #100DaysofCode R2,D7: Reading through React and Twitter API docs to re-famliarize myself. Updating the app structure outline as I go. Beginnings of Sendtweet component in the works. http://tinyurl.com/ybpaeons
+
+### Day 8: January 8, 2018
+
+**Today's Progress:** R2,D8: Figured out some of the ins and outs of the GitHub API. It's going to work for my purposes. 
+
+**Thoughts:** Having a cold sucks.
+
+**Link(s) to work:** (Log-App-2018)[https://github.com/standardhuman/Log-App-2018]
+
+**Tweet:** #100DaysofCode R2,D8: Figured out some of the ins and outs of the GitHub API. It's going to work for my purposes. http://tinyurl.com/ybpaeons
