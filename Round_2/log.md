@@ -89,3 +89,26 @@ One of the intended functions of this application is to update a file in a user'
 **Link(s) to work:** (Log-App-2018)[https://github.com/standardhuman/Log-App-2018]
 
 **Tweet:** #100DaysofCode R2,D8: Figured out some of the ins and outs of the GitHub API. It's going to work for my purposes. http://tinyurl.com/ybpaeons
+
+### Day 9: January 9, 2018
+
+**Today's Progress:** R2, D9: Built a server in Ruby to test the GitHub API.
+
+**Thoughts:** Having a cold still sucks.
+
+**Link(s) to work:** (Log-App-2018)[https://github.com/standardhuman/Log-App-2018/tree/master/src/gh-test-server]
+
+**Tweet:** #100DaysofCode R2,D8: R2, D9: Built a server in Ruby to test the GitHub API. http://tinyurl.com/yd5wwc27
+
+### Day 10: January 10, 2018
+
+**Today's Progress:** R2, D10: Solved FCC allSum algo.
+
+**Thoughts:** Struggled today. Def did NOT want to squeeze in an hour after getting little done on the Log App today. But I did it, and I'll remember that. 
+
+**Link(s) to work:** (FCC: sumAllInRange)[https://github.com/standardhuman/Interview-Practice/blob/master/freecodecamp/sumAllInRange.js]
+
+**Tweet:** #100DaysofCode R2, D10: Solved FCC allSum algo. http://tinyurl.com/ya5n243o
+
+
+
