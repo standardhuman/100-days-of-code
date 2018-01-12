@@ -111,4 +111,12 @@ One of the intended functions of this application is to update a file in a user'
 **Tweet:** #100DaysofCode R2, D10: Solved FCC allSum algo. http://tinyurl.com/ya5n243o
 
 
+### Day 11: January 11, 2018
 
+**Today's Progress:** R2, D11: Worked on building an express server to explore GraphQL.
+
+**Thoughts:** 
+
+**Link(s) to work:** (GraphQL)[https://github.com/standardhuman/graphql-goodreads-test]
+
+**Tweet:** #100DaysofCode R2, D11: Worked on building an express server to explore GraphQL. http://tinyurl.com/ydzek5bm
